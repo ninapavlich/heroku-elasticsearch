@@ -4,7 +4,7 @@ This simple Java application is an ElasticSearch server.
 
 It uses Amazon S3 for index persistience.
 
-## TELL ME HOW
+## Deploy in Seconds
 
 Quite simple.
 
