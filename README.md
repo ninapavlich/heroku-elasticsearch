@@ -8,10 +8,10 @@ It uses Amazon S3 for index persistience.
 
 Quite simple.
 
-$ git clone https://github.com/kennethreitz/heroku-elasticsearch.git
-$ heroku create
-$ heroku config:set AWS_ACCESS_KEY=:key AWS_SECRET_KEY=:key S3_BUCKET=:bucket
-$ git push heroku master
+    $ git clone https://github.com/kennethreitz/heroku-elasticsearch.git
+    $ heroku create
+    $ heroku config:set AWS_ACCESS_KEY=:key AWS_SECRET_KEY=:key S3_BUCKET=:bucket
+    $ git push heroku master
 
 That's it!
 
