@@ -1,0 +1,9 @@
+cluster.name: elasticsearch
+cloud:
+    aws:
+        access_key: ${AWS_ACCESS_KEY}
+        secret_key: ${AWS_SECRET_KEY}
+gateway:
+    type: s3
+    s3:
+        bucket: ${S3_BUCKET}
