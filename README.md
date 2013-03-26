@@ -15,6 +15,11 @@ Quite simple.
 
 That's it!
 
+## Considerations
+
+- There is no HTTP authentication. Your index is open for the world to read/write.
+- The Elastic Search S3 backend is deprecated.
+
 ## Based On
 
 This project is based on the work by [jordansissel](https://github.com/jordansissel/elasticsearch-on-heroku).
