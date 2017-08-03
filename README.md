@@ -23,4 +23,3 @@ That's it!
 ## Based On
 
 This project is based on the work by [jordansissel](https://github.com/jordansissel/elasticsearch-on-heroku).
-
