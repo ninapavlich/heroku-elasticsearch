@@ -10,12 +10,12 @@
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch</artifactId>
-      <version>0.19.0</version>
+      <version>5.5.0</version>
     </dependency>
     <dependency>
-        <groupId>org.elasticsearch</groupId>
-        <artifactId>elasticsearch-cloud-aws</artifactId>
-        <version>1.4.0</version>
+       <groupId>org.elasticsearch.client</groupId>
+       <artifactId>x-pack-transport</artifactId>
+       <version>5.5.0</version>
     </dependency>
   </dependencies>
   <repositories>
@@ -31,7 +31,6 @@
       <layout>default</layout>
     </repository>
   </repositories>
-
   <build>
     <plugins>
       <plugin>
