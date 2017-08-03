@@ -1,3 +1,5 @@
+NOTE: WORK IN PROGRESS, NOT CURRENTLY WORKING
+
 Getting Started:
 
 In your project repository:

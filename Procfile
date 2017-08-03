@@ -1,1 +1,1 @@
-web: ./bin/elasticsearch -Epath.conf=elasticsearch.yml -Des.http.port=$PORT
+web: ./elasticsearch-5.5.1/bin/elasticsearch -Epath.conf=elasticsearch.yml -Des.http.port=$PORT
