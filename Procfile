@@ -1,2 +1,1 @@
-web: java -cp target/classes:target/dependency/* -Des.http.port=$PORT ElasticSearch
-
+web: ./bin/elasticsearch -Epath.conf=elasticsearch.yml -Des.http.port=$PORT
